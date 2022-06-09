@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crazyrotty
-- 👀 I’m interested in computers and the outdoors. I spent the majority of my career as a RN and now I am making the leap to computers. 
-- 🌱 I have completed Kenzie Academy and I am now looking for employment.
-- 💞️ I’m looking to collaborate on anything that will help me learn.
+- 👀 I’m interested in computers and the outdoors. I spent the majority of my career as a RN and now I am a Full Stack Developer.
+- 🌱 I have completed Kenzie Academy and I am now looking for employment as a developer.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me is by my email @ kennethscribner@yahoo.com
 
 <!---
