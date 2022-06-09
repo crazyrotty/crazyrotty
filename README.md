@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crazyrotty
-- 👀 I’m interested in computers and the outdoors. I spent the majority of my career as a RN and now I am a Full Stack Developer.
+- 👀 I’m interested in computers and the outdoors. I have spent the majority of my career as an RN and  I am now a Full Stack Developer.
 - 🌱 I have completed Kenzie Academy and I am now looking for employment as a developer.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me is by my email @ kennethscribner@yahoo.com
